@@ -1,16 +1,36 @@
-## Hi there 👋
 
-👩‍💻 Aspiring Software Developer  
+## 👩‍💻 Aspiring Software Developer
 
-🎓 Completed CDAC in PG-DAC (Post Graduate Diploma in Advanced Computing)  
-🎓 MCA Post Graduate | Strong foundation in Computer Science  
+🎓 **CDAC – PG-DAC (Post Graduate Diploma in Advanced Computing)**  
+🎓 **MCA Post Graduate** | Strong foundation in Computer Science concepts  
 
-💡 Technologies I work with:  
-Java | C++ | React | Node.js | Express | SQL | HTML | CSS | JavaScript  
+---
 
-🛠️ Hands-on experience with building web applications  
+### 💡 Technical Skills
+**Java | C++ | React | Node.js | Express | SQL | HTML | CSS | JavaScript**
 
-🚀 Learning, building real-world applications & improving every day  
-🌱 Currently improving backend skills and system understanding  
+---
 
-🤝 Open to collaboration, internships & entry-level opportunities  
+### 🛠️ What I Do
+- Hands-on experience in building **web applications**  
+- Comfortable with **frontend + backend fundamentals**  
+- Familiar with REST APIs, databases & version control (Git/GitHub)
+
+---
+
+### 🚀 Currently Working On
+- Improving **backend development skills**  
+- Strengthening **system design & core CS concepts**  
+- Writing cleaner, more efficient and maintainable code  
+
+---
+
+### 🌱 Learning Mindset
+Learning by building real-world applications,  
+debugging problems & improving **one step every day**.
+
+---
+
+### 🤝 Let’s Connect
+Open to **collaboration, internships & entry-level software roles**  
+Always excited to learn from others and work on meaningful projects.
