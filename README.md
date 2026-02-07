@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Tanuja195/Tanuja195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+🎓 Completed CDAC in PG-DAC (Post Graduate Diploma in Advanced Computing)  
+🎓 MCA Post Graduate | Strong foundation in Computer Science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Technologies I work with:  
+Java | C++ | React | Node.js | Express | SQL | HTML | CSS | JavaScript  
+
+🛠️ Hands-on experience with building web applications  
+
+🚀 Learning, building real-world applications & improving every day  
+🌱 Currently improving backend skills and system understanding  
+
+🤝 Open to collaboration, internships & entry-level opportunities  
