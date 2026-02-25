@@ -28,6 +28,8 @@ Database      : MySql | SQL | MongoDB
 
 Tools         : Eclipse | VS Code | Git | GitHub
 
+Frameworks   : Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Thymeleaf.
+
 
 ---
 
